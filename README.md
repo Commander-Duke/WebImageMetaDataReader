@@ -13,5 +13,8 @@ Metaviewer features:
 Benötigte Pakete:
  pip install flask hachoir exifread
 
+Starte den Server: 
+  python metaviewer_web.py
+
 Öffne deinen Browser:
 👉 http://127.0.0.1:5000
