@@ -18,3 +18,5 @@ Starte den Server:
 
 Öffne deinen Browser:
 👉 http://127.0.0.1:5000
+
+![image](https://github.com/user-attachments/assets/fdb0d018-0360-4255-a9fd-d36912c62585)
